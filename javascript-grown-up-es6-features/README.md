@@ -77,7 +77,7 @@ Tools and Browser Support
 
 [Browsers support many features out of the box](https://kangax.github.io/compat-table/es6/)
 
-[But stop worrying and use Babel](http://babeljs.io)
+[Stop worrying and use Babel](http://babeljs.io)
 
 Type Systems
 ------------

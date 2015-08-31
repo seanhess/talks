@@ -12,17 +12,16 @@ Sean Hess
 
 Expert Full-Stack Developer. Independent Contractor and Consultant.
 
-Twitter: [@seanhess](http://twitter.com/seanhess)
-Blog: [seanhess.github.io](http://seanhess.github.io)
-Github: [github.com/seanhess](http://github.com/seanhess)
+* Twitter: [@seanhess](http://twitter.com/seanhess)
+* Blog: [seanhess.github.io](http://seanhess.github.io)
+* Github: [github.com/seanhess](http://github.com/seanhess)
 
 1995: The Netscape Era
 ----------------------
 
-https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich
 
-Brendan Eich recruited to bring Scheme (Lisp) to the browser
-Prototyped the first version in 10 days.
+- Brendan Eich recruited to bring Scheme (Lisp) to the browser
+- Prototyped the first version in 10 days.
 
 What's in a name?
 -----------------
@@ -50,10 +49,6 @@ JavaScript is taken to ECMA to carve out a standard specification.
 * 2015 - ES6. See below
 * 201X - ES7. Moving quickly
 
-https://en.wikipedia.org/wiki/ECMAScript
-https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript
-http://www.2ality.com/2011/06/ecmascript.html
-
 Features
 --------
 
@@ -78,7 +73,6 @@ Features
 - new built in methods: [see here](http://es6-features.org/#ObjectPropertyAssignment)
 - [Promises](http://es6-features.org/#PromiseUsage)
 
-http://es6-features.org/
 https://github.com/lukehoban/es6features
 
 Tools and Browser Support
@@ -88,4 +82,9 @@ Tools and Browser Support
 
 [But stop worrying and use Babel](http://babeljs.io)
 
+Sources
+-------
 
+- History: [1](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) [2](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) [3](http://www.2ality.com/2011/06/ecmascript.html)
+- [ES6 Features](http://es6-features.org/)
+- [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)

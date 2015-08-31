@@ -19,7 +19,6 @@ Expert Full-Stack Developer. Independent Contractor and Consultant.
 1995: The Netscape Era
 ----------------------
 
-
 - Brendan Eich recruited to bring Scheme (Lisp) to the browser
 - Prototyped the first version in 10 days.
 
@@ -73,8 +72,6 @@ Features
 - new built in methods: [see here](http://es6-features.org/#ObjectPropertyAssignment)
 - [Promises](http://es6-features.org/#PromiseUsage)
 
-https://github.com/lukehoban/es6features
-
 Tools and Browser Support
 -------------------------
 
@@ -85,6 +82,6 @@ Tools and Browser Support
 Sources
 -------
 
-- History: [1](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) [2](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) [3](http://www.2ality.com/2011/06/ecmascript.html)
+- History: [[1]](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) [[2]](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) [[3]](http://www.2ality.com/2011/06/ecmascript.html)
 - [ES6 Features](http://es6-features.org/)
 - [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)

@@ -3,7 +3,7 @@ Javascript's All Grown Up: New ES6 Features
 
 Follow along: [https://github.com/seanhess/talks/blob/master/javascript-grown-up-es6-features/README.md](https://github.com/seanhess/talks/blob/master/javascript-grown-up-es6-features/README.md)
 
-> Javascript has a rocky history, but with the ECMAScript 6 standard it gains new features and fixes old problems. With the right tools you can use ES6 Javascript today.
+> Javascript has a rocky history, but with the ECMAScript 6 standard it gains new features and fixes old problems. Gets rid of that Javascript smell, guaranteed!
 
 About Me
 --------
@@ -78,6 +78,13 @@ Tools and Browser Support
 [Browsers support many features out of the box](https://kangax.github.io/compat-table/es6/)
 
 [But stop worrying and use Babel](http://babeljs.io)
+
+Type Systems
+------------
+
+Use strict types for maintainability
+
+[Flow](http://flowtype.org/) works well with Babel
 
 Sources
 -------
